@@ -1,0 +1,1 @@
+// mongoimport personalbar.json -d analyst -c persons --jsonArray
